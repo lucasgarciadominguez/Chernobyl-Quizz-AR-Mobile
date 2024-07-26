@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb06db666099dc498fd6ea339e8e8cf, type: 3}
+  m_Name: FourthQuestion 2
+  m_EditorClassIdentifier: 
+  Question: "\xBFCu\xE1ntos pa\xEDses estuvieron expuestos a la radiaci\xF3n de la
+    explosi\xF3n?"
+  Answer1: 5
+  Answer2: 8
+  Answer3: 13
+  Answer4: 10
+  QuestionCorrect: 3

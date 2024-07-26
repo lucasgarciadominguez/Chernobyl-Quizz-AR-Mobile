@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb06db666099dc498fd6ea339e8e8cf, type: 3}
+  m_Name: SecondQuestion 1
+  m_EditorClassIdentifier: 
+  Question: "\xBFD\xF3nde fue el accidente nuclear ocurrido el 26 de abril de 1986?"
+  Answer1: EEUU
+  Answer2: "Jap\xF3n"
+  Answer3: URSS
+  Answer4: Alemania
+  QuestionCorrect: 3
